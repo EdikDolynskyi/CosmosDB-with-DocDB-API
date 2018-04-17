@@ -139,8 +139,8 @@ making sure that you maintain a proper JSON format.
 				"options": [
 					"",
 					"West US", 
-					"West Central US", 
 					"West US 2", 
+					"West Central US", 
 					"East US",
 					"East US 2", 
 					"Central US", 
@@ -148,6 +148,7 @@ making sure that you maintain a proper JSON format.
 					"North Central US", 
 					"West Europe", 
 					"North Europe", 
+					"France Central",
 					"East Asia", 
 					"Southeast Asia", 
 					"Japan West", 
